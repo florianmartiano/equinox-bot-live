@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+positions.csv
+trades.csv
+stats.csv
+missed_trades.txt
+console_log.txt
+.env
